@@ -13,13 +13,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-
-![](./screenshot.jpg)
+![solution screenshot](https://github.com/davidguy3237/frontend-mentor-qr-code/assets/112038666/be7f6f67-ea67-4aef-b06c-ea28517da3b4)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-using-htmlcssflexbox-OHsAr3ekNx)
+- [Live Site URL](https://davidguy3237.github.io/frontend-mentor-qr-code/)
 
 ## My process
 
@@ -31,4 +30,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/davidguy3237)
+- Frontend Mentor - [@davidguy3237](https://www.frontendmentor.io/profile/davidguy3237)
