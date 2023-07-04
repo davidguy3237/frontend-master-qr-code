@@ -13,8 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-
-![](./screenshot.jpg)
+![solution screenshot](https://github.com/davidguy3237/frontend-mentor-qr-code/assets/112038666/be7f6f67-ea67-4aef-b06c-ea28517da3b4)
 
 ### Links
 
